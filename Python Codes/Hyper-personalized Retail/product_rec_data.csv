@@ -1,0 +1,21 @@
+ClientID,Age,Location,FinancialGoals,RiskAppetite,MonthlyIncome,EmploymentType,CreditScore,LoanAmount,LoanTerm,NumOfPreviousLoans,NumOfDependents
+1,35,Mumbai,Saving for a down payment on a house,Moderate,57017,Salaried,601,3482199,36,0,0
+2,28,Delhi,Planning for retirement,Conservative,74302,Self-Employed,780,4942776,48,5,0
+3,45,Bengaluru,Paying off student loans,Aggressive,57502,Salaried,656,1853757,24,2,1
+4,22,Hyderabad,Saving for a down payment on a house,Moderate,52696,Self-Employed,839,1039925,48,2,1
+5,33,Chennai,Paying off student loans,Conservative,49878,Salaried,733,983632,60,2,1
+6,40,Kolkata,Planning for retirement,Aggressive,61983,Self-Employed,662,2007370,12,5,1
+7,28,Ahmedabad,Saving for a down payment on a house,Moderate,35670,Salaried,840,4882218,12,5,2
+8,30,Pune,Planning for retirement,Conservative,62535,Self-Employed,804,1325374,60,2,1
+9,50,Jaipur,Paying off student loans,Aggressive,62877,Salaried,787,2896708,36,1,3
+10,21,Lucknow,Saving for a down payment on a house,Moderate,36910,Self-Employed,566,3906877,24,4,1
+11,38,Kochi,Paying off student loans,Conservative,34147,Salaried,642,319601,12,3,3
+12,48,Chandigarh,Planning for retirement,Aggressive,77883,Self-Employed,826,1426815,12,1,1
+13,25,Indore,Saving for a down payment on a house,Moderate,51347,Salaried,815,3186156,48,2,2
+14,35,Vadodara,Planning for retirement,Conservative,73147,Self-Employed,600,2608334,60,1,0
+15,42,Visakhapatnam,Paying off student loans,Aggressive,50545,Salaried,760,3297190,24,2,1
+16,26,Surat,Saving for a down payment on a house,Moderate,41324,Self-Employed,509,4054401,12,2,0
+17,30,Agra,Paying off student loans,Conservative,75998,Salaried,597,3370512,12,4,1
+18,32,Coimbatore,Planning for retirement,Aggressive,64630,Self-Employed,572,298485,48,2,1
+19,45,Patna,Saving for a down payment on a house,Moderate,67745,Salaried,824,808258,24,3,0
+20,40,Bhubaneswar,Planning for retirement,Conservative,78257,Self-Employed,654,3693348,12,2,2
